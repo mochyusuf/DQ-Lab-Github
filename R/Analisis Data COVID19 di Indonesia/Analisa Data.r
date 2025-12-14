@@ -1,0 +1,6 @@
+lapply(cov_id_update,names)
+cov_id_update$penambahan$tanggal
+cov_id_update$penambahan$jumlah_sembuh
+cov_id_update$penambahan$jumlah_meninggal
+cov_id_update$total$jumlah_positif
+cov_id_update$total$jumlah_meninggal
