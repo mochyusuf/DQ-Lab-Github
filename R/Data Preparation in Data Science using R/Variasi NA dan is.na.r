@@ -1,0 +1,8 @@
+typeof(NA_integer_)
+typeof(NA_real_)
+typeof(NA_complex_)
+typeof(NA_character_)
+is.na(NA_integer_)
+is.na(NA_real_)
+is.na(NA_complex_)
+is.na(NA_character_)
