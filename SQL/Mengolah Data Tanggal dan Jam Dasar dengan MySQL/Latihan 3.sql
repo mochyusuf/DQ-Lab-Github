@@ -1,0 +1,2 @@
+SELECT * FROM dqlab_retail 
+WHERE tanggal BETWEEN 2020-04-01 AND 2020-04-30;
