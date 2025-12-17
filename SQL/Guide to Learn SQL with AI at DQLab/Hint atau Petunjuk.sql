@@ -1,0 +1,1 @@
+SELECT kode_produk, nama_produk FROM ms_produk;
