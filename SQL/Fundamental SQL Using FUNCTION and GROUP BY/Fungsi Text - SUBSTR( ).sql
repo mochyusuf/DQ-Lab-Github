@@ -1,0 +1,1 @@
+select StudentID, Substr(FirstName,2,3) as Initial from students
