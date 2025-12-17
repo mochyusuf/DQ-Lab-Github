@@ -1,0 +1,1 @@
+Select Count(FirstName) as Total_Student from students
