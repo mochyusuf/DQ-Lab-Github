@@ -1,0 +1,1 @@
+SELECT * FROM dqlabregex WHERE kota REGEXP 'ng$'
