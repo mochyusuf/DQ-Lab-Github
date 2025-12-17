@@ -1,0 +1,1 @@
+select StudentID, Email, Replace(Email,'yahoo','gmail') as New_Email from students
