@@ -1,0 +1,1 @@
+select StudentID, FirstName, LastName,Floor(Semester1) as Semester1, Floor(Semester2) as Semester2, MarkGrowth from students
