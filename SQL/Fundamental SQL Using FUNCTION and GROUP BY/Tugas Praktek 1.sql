@@ -1,0 +1,1 @@
+Select StudentID, Upper(FirstName) as FirstName, Lower(LastName) As LastName from students
