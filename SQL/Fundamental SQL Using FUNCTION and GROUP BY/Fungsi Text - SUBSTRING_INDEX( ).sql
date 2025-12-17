@@ -1,0 +1,1 @@
+select StudentID, Substring_Index(Email,'@',1) as Name from students
