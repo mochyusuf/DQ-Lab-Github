@@ -1,0 +1,1 @@
+Select min(Semester1) as Min1, Max(Semester1) as Max1, min(Semester2) as Min2, Max(Semester2) as Max2 from students
