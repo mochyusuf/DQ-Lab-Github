@@ -1,0 +1,1 @@
+select DISTINCT(ms_pelanggan.kode_pelanggan), nama_customer, alamat from ms_pelanggan INNER join tr_penjualan On ms_pelanggan.kode_pelanggan = tr_penjualan.kode_pelanggan where nama_produk IN ('Kotak Pensil DQLab', 'Flashdisk DQLab 32 GB', 'Sticky Notes DQLab 500 sheets')
