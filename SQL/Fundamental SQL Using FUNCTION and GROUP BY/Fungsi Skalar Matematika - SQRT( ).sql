@@ -1,0 +1,1 @@
+select StudentID,FirstName,LastName,Sqrt(Semester1) as Semester1, (Semester2), MarkGrowth from students
