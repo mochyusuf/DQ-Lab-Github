@@ -1,0 +1,1 @@
+Select Sum(Semester1) as Total_1, Sum(Semester2) as Total_2 from students
