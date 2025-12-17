@@ -1,0 +1,1 @@
+select StudentID, FirstName, LastName, Round(Semester1,1) as Semester1, Round(Semester2,0) as Semester2, MarkGrowth from students
