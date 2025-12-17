@@ -1,0 +1,1 @@
+select CustomerName, ContactName, City, PostalCode From Customers union Select SupplierName, ContactName, City, PostalCode From Suppliers
