@@ -1,0 +1,2 @@
+SELECT isi
+FROM dqlabdatateks;
