@@ -5,4 +5,4 @@ import pandas as pd
 df = pd.read_csv("https://storage.googleapis.com/dqlab-dataset/komdigi/tbl_funnel.csv")
 
 # Tampilkan dataframe tersebut.
-df.head()
+print(df)
